@@ -1,0 +1,65 @@
+number: 6
+number: 9
+Erasing node at position 4number: 4
+number: 1
+number: 3
+number: 3
+number: 3
+number: 3
+number: 3
+number: 3
+number: 3
+number: 3
+number: 3
+number: 3
+number: 2
+number: 2
+number: 2
+number: 6
+number: 10
+number in list: 0
+number: 6
+number: 9
+Erasing node at position 4number: 4
+number: 1
+number: 2
+number: 2
+number: 2
+number: 2
+number: 2
+number: 3
+number: 3
+number: 3
+number: 3
+number: 3
+number: 11
+size: 10
+number: 7
+MCKINNEY, CECIL
+number: 8
+HERNANDEZ, DOROTHY
+number: 4
+number: 5
+number: 7
+MITCHELL, ROBERTA
+number: 8
+KNIGHT, JUSTIN
+number: 9
+Erasing node at position 2number: 8
+KNIGHT, JUSTIN
+number: 10
+number in list: 0
+number: 3
+number: 3
+number: 3
+number: 5
+number: 5
+number: 5
+number: 2
+number: 2
+number: 2
+number: 4
+number: 4
+number: 10
+number in list: 0
+number: 12
